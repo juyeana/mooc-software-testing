@@ -1,0 +1,7 @@
+Here we will show how to create this fork:
+Log in into GitHub (you are already logged in if you just created your account).
+Go to our course's repository: https://github.com/SERG-Delft/mooc-software-testing.
+At the top right, click on "fork" (see picture below).
+When asked "where should we fork this repository" choose "@your_username". Now, you are telling GitHub to create a copy of our code for you, so that you change it as you want!
+Wait a few seconds for the process to finish.
+You have just forked a repository! This repository will now show up on the home page under your repositories.

@@ -1,0 +1,7 @@
+Go to the repository you forked in the previous step
+Click on the "clone or download button" (see pictures below).
+Copy the URL that is there. It looks something like https://github.com/YOUR-USER/mooc-software-testing.git.
+Open your terminal (command prompt, bash, ...). If you are using Windows, you just installed the Git Bash utility.
+Navigate to the directory where you want to save the project (using the "cd" command).
+Type "git clone URL", where URL is the link you copied in step 3.
+Press enter and wait for the process to finish.
